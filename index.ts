@@ -14,6 +14,7 @@ const PORT = process.env.PORT ?? 5000;
 const allowedOrigins: string[] = [
     'http://localhost:3000',
     'http://localhost:3001',
+    'https://www.clipurl.tech',
     'https://ghost-share-two.vercel.app'
 ];
 
